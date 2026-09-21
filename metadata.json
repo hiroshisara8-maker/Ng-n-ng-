@@ -1,0 +1,7 @@
+{
+  "name": "Việt Ngữ Trong Tay",
+  "description": "Ứng dụng thông minh hỗ trợ sửa lỗi chính tả, cải thiện câu văn, luyện viết, phát âm và giao tiếp tiếng Việt.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
